@@ -1,6 +1,6 @@
-# developers.redu.com.br
+# developers.openredu.com
 
-Este é o código fonte da documentação da [API REST do Redu](http://developers.redu.com.br).
+Este é o código fonte da documentação da [API REST do Openredu](http://developers.openredu.com).
 
 ## Pré-requisitos
 
@@ -10,7 +10,7 @@ Esta documentação foi feita utilizando o [Jekyll](https://github.com/mojombo/j
 
 Clone o repositório:
 
-    $ git clone git@github.com:redu/redu.github.com.git
+    $ git clone git@github.com:openredu/redu.github.com.git
 
 Dentro do diretório, instale as dependências:
 
